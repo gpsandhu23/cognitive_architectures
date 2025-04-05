@@ -1,4 +1,4 @@
-# Collection of LangGraph agents implemented in LangGraph Python
+# Collection of agents implemented in LangGraph Python
 
 1. React Agent
    ![React Agent](static/react%20agent.png)
