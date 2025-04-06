@@ -1,0 +1,11 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "router": "./src/router/graph.py:graph",
+    "react_agent": "./src/react_agent/graph.py:graph",
+    "reflection_agent": "./src/reflection_agent/graph.py:graph"
+  },
+  "env": ".env"
+}
