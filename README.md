@@ -1,15 +1,15 @@
 ## Collection of agents implemented in LangGraph Python
 
 ### Chain
-   ![Chain](static/chain.png)
+   <img src="static/chain.png" width="400" style="margin-left: 100px;">
 
 ### Router
-   ![Router](static/router.png)
+   <img src="static/router.png" width="600">
 
 ### React Agent
-   ![React Agent](static/react%20agent.png)
+   <img src="static/react%20agent.png" width="600">
 
 ### Reflection Agent
-   ![Reflection Agent](static/reflection%20agent.png)
+   <img src="static/reflection%20agent.png" width="600">
 
 ### ...
