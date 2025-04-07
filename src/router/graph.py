@@ -53,12 +53,12 @@ async def call_model(
     return {"messages": [response]}
 
 
-async def vowel(state: State, config: RunnableConfig) -> Dict:
+async def vowel(state: State, config: RunnableConfig) -> Dict[str, List[AIMessage]]:
     """Node that generates 5 random words starting with a vowel."""
     return {"messages": [AIMessage(content="AI response started with a vowel!")]}
 
 
-async def consonant(state: State, config: RunnableConfig) -> Dict:
+async def consonant(state: State, config: RunnableConfig) -> Dict[str, List[AIMessage]]:
     """Node that generates 5 random words starting with a consonant."""
     return {"messages": [AIMessage(content="AI response started with a consonant!")]}
 

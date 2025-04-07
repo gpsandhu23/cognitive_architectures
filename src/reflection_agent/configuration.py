@@ -12,7 +12,7 @@ class Configuration(BaseModel):
     """Configuration for the reflection agent."""
 
     model: str = Field(
-        default="openai:gpt-4",
+        default="anthropic/claude-3-5-sonnet-20240620",
         description="The model to use for generation and reflection.",
     )
     """The model to use for generation and reflection."""

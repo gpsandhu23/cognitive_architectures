@@ -1,12 +1,15 @@
 # Collection of agents implemented in LangGraph Python
 
-1. Router
+1. Chain
+   ![Chain](static/chain.png)
+
+2. Router
    ![Router](static/router.png)
 
-2. React Agent
+3. React Agent
    ![React Agent](static/react%20agent.png)
 
-3. Reflection Agent
+4. Reflection Agent
    ![Reflection Agent](static/reflection%20agent.png)
 
-4. ...
+5. ...
