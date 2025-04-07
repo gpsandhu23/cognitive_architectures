@@ -8,7 +8,8 @@
     "react_agent": "./src/react_agent/graph.py:graph",
     "reflection_agent": "./src/reflection_agent/graph.py:graph",
     "multiagent_supervisor": "./src/multiagent_supervisor/graph.py:graph",
-    "multiagent_network": "./src/multiagent_network/graph.py:graph"
+    "multiagent_network": "./src/multiagent_network/graph.py:graph",
+    "multiagent_teams": "./src/multiagent_teams/graph.py:super_graph"
   },
   "env": ".env"
 }
