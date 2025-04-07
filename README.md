@@ -12,7 +12,11 @@
 ### Reflection Agent
    <img src="static/reflection%20agent.png" width="600">
 
+### Multi-Agent Network
+   <img src="static/multiagent_network.png" width="400" style="margin-left: 100px;">
+
 ### Multi-Agent Supervisor
    <img src="static/multiagent_supervisor.png" width="600">
+
 
 ### ...
