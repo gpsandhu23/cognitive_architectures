@@ -6,7 +6,8 @@
     "chain": "./src/chain/graph.py:graph",
     "router": "./src/router/graph.py:graph",
     "react_agent": "./src/react_agent/graph.py:graph",
-    "reflection_agent": "./src/reflection_agent/graph.py:graph"
+    "reflection_agent": "./src/reflection_agent/graph.py:graph",
+    "multiagent_supervisor": "./src/multiagent_supervisor/graph.py:graph"
   },
   "env": ".env"
 }

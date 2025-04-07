@@ -12,4 +12,7 @@
 ### Reflection Agent
    <img src="static/reflection%20agent.png" width="600">
 
+### Multi-Agent Supervisor
+   <img src="static/multiagent_supervisor.png" width="600">
+
 ### ...
