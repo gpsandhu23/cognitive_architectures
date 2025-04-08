@@ -13,8 +13,8 @@
    <img src="static/reflection%20agent.png" width="600">
 
    ### Semantic Long Term Memory
-React Agent with Semantic Long Term Memory with LangMem manage memory and search memory tools.
-   <img src="static/react%20agent.png" width="600">
+React Agent with sementic long term memory with LangMem manage memory and search memory tools.
+   <img src="static/long_term_memory.png" width="400" style="margin-left: 100px;">
 
 ### Multi-Agent Network
    <img src="static/multiagent_network.png" width="400" style="margin-left: 100px;">
