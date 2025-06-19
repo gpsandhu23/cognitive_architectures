@@ -18,6 +18,7 @@ dependencies = [
     "langchain-community>=0.2.17",
     "tavily-python>=0.4.0",
     "langmem==0.0.20",
+    "langgraph-cli[inmem]>=0.3.3",
 ]
 
 
@@ -29,7 +30,16 @@ requires = ["setuptools>=73.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
-packages = ["react_agent", "reflection_agent"]
+packages = [
+    "chain",
+    "router", 
+    "react_agent", 
+    "reflection_agent",
+    "multiagent_network",
+    "multiagent_supervisor", 
+    "multiagent_teams",
+    "semantic_long_term_memory"
+]
 package-dir = {"" = "src"}
 
 
